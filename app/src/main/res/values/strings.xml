@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsWork</string>
+    <string name="save_preferences_button_text">Получить номер текущей темы</string>
+    <string name="button_one_text">Сменить тему на 0</string>
+    <string name="button_two_text">Сменить тему на 1</string>
+    <string name="textview_text">Для проверки работоспособности методов поверните экран</string>
+</resources>
